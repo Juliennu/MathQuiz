@@ -1,5 +1,5 @@
 # MathQuiz
-<img src="https://user-images.githubusercontent.com/76898162/122705650-20f5c280-d291-11eb-83ab-056fff00fe45.gif" width="1500px"> 
+![playVideo](https://user-images.githubusercontent.com/76898162/132124855-51d169ea-13f6-40ba-ba61-1aafae7f4b66.gif)
 
 ## Overview
 - This is a quiz game where you have to fill in the blanks of the four arithmetic operations.
